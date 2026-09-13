@@ -81,7 +81,7 @@ export const markets = [
     name: "Delhi NCR",
     tag: "Northern Capital Corridor",
     image:
-      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1600&q=85",
+      "/projects/delhi.jpg",
     copy: "Residential, commercial and industrial opportunities across the region's strongest corridors.",
     services: "Residential · Commercial · Industrial"
   },
