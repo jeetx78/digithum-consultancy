@@ -609,8 +609,8 @@ export default function Home() {
                       Direct Advisory Line
                     </small>
 
-                    <a href="tel:+918004567890">
-                      +91 800 456 7890
+                    <a href="tel:+917827510831">
+                      +91 782 751 0831
                     </a>
                   </div>
 
@@ -619,8 +619,8 @@ export default function Home() {
                       Client Mandate Desk
                     </small>
 
-                    <a href="mailto:advisory@digithumrealtors.com">
-                      advisory@digithumrealtors.com
+                    <a href="mailto:digithum.realtors@gmail.com">
+                      digithum.realtors@gmail.com
                     </a>
                   </div>
 

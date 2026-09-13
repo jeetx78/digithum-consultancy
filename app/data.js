@@ -1,59 +1,59 @@
 export const projects = [
   {
-    name: "Elaris",
-    slug: "elaris",
+    name: "Gaur Alaris",
+    slug: "alaris",
     category: "Residential",
-    location: "Delhi NCR",
+    location: "Sector 22D, Yamuna Expressway, Greater Noida",
     developer: "Developer mandate",
     price: "Price on request",
     configurations: ["3 & 4 BHK", "Private residences"],
     image:
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1800&q=85",
+      "/projects/alaris/cover.jpg",
     description:
       "A curated residential opportunity selected for architectural character, location quality and long-term livability.",
     amenities: ["Clubhouse", "Landscaped grounds", "Wellness spaces", "Resident services"],
     highlights: ["Private dossier", "RERA details on request", "Senior advisory access"]
   },
   {
-    name: "Bento",
+    name: "Gaur Bento",
     slug: "bento",
     category: "Residential",
-    location: "Delhi NCR",
+    location: "Sector 19, Yamuna Expressway",
     developer: "Developer mandate",
     price: "Price on request",
     configurations: ["2, 3 & 4 BHK", "Urban residences"],
     image:
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1800&q=85",
+      "/projects/bento/cover.jpg",
     description:
-      "Contemporary urban living positioned around connectivity, amenity depth and a disciplined residential proposition.",
+      "Contemporary urban living positioned around connectivity, amenity depth and a disciplined residential propositionfor studio apartments.",
     amenities: ["Lifestyle amenities", "Security", "Fitness", "Social spaces"],
     highlights: ["Private dossier", "Location assessment", "Allocation assistance"]
   },
   {
-    name: "Arte Ace",
-    slug: "arte-ace",
+    name: "Ace Arte",
+    slug: "ace-arte",
     category: "Residential",
-    location: "Delhi NCR",
+    location: "Plot no. SC 12, Sector 150, Noida",
     developer: "Developer mandate",
     price: "Price on request",
     configurations: ["Luxury residences", "Premium layouts"],
     image:
-      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1800&q=85",
+      "/projects/ace-arte/cover.jpg",
     description:
       "A premium residential mandate for clients seeking design-led living and a carefully selected address.",
     amenities: ["Concierge", "Pool", "Private lounges", "Landscape"],
     highlights: ["Premium allocation", "Private briefing", "Due-diligence support"]
   },
   {
-    name: "EON",
+    name: "Fairfox Eon",
     slug: "eon",
     category: "Commercial",
-    location: "Expressway Commercial Belt",
+    location: "Plot no. 01A, Sector 140A, Noida",
     developer: "Developer mandate",
     price: "Price on request",
     configurations: ["Grade-A office", "Commercial suites"],
     image:
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1800&q=85",
+      "/projects/eon/cover.jpg",
     description:
       "A commercial opportunity assessed for access, workplace quality, tenant proposition and long-term asset utility.",
     amenities: ["Grade-A specification", "Parking", "Security", "Business services"],
@@ -63,12 +63,12 @@ export const projects = [
     name: "Hero Homes",
     slug: "hero-homes",
     category: "Residential",
-    location: "Delhi NCR",
+    location: "Sector Mu, Greater Noida",
     developer: "Developer mandate",
     price: "Price on request",
     configurations: ["3 & 4 BHK", "Integrated community"],
     image:
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1800&q=85",
+      "/projects/hero-homes/cover.jpg",
     description:
       "An integrated residential community proposition balancing everyday convenience, amenities and family-oriented planning.",
     amenities: ["Clubhouse", "Sports facilities", "Green spaces", "Community areas"],

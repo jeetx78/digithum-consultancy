@@ -58,6 +58,15 @@ export default async function ProjectPage({ params }) {
           <div className="highlight-grid">
             {project.highlights.map((item) => <div key={item}>{item}<span>↗</span></div>)}
           </div>
+
+          <div className="project-enquire">
+            <Link
+              href="/#contact"
+              className="button button-orange"
+            >
+              Enquire Now <span>→</span>
+            </Link>
+          </div>
           <div className="amenities">
             <h3>Selected amenities</h3>
             <div>{project.amenities.map((item) => <span key={item}>{item}</span>)}</div>
