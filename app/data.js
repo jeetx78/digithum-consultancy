@@ -89,7 +89,7 @@ export const markets = [
     name: "Dehradun",
     tag: "Himalayan Foothills",
     image:
-      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=85",
+      "/projects/dehra.jpg",
     copy: "Selected foothill residences, second homes and land opportunities shaped by the Doon Valley.",
     services: "Residential · Land · Second Homes"
   },
@@ -97,7 +97,7 @@ export const markets = [
     name: "Dubai",
     tag: "Global Financial Hub",
     image:
-      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1600&q=85",
+      "/projects/dubai.jpg",
     copy: "Prime residential and commercial opportunities across established and emerging Dubai districts.",
     services: "Residential · Commercial · Investment"
   }

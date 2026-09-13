@@ -635,7 +635,7 @@ export default function Home() {
 
                 <a
                   className="whatsapp-link"
-                  href="https://wa.me/918004567890?text=Hello%20Digithum%20Consultancy%20Services%2C%20I%20would%20like%20to%20discuss%20a%20property%20mandate."
+                  href="https://wa.me/message/UOHXGSJP6EL4G1"
                   target="_blank"
                   rel="noreferrer"
                 >
