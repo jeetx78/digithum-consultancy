@@ -113,13 +113,13 @@ export default function Home() {
             aria-label="Digithum Consultancy Services home"
           >
             <img
-              src="/digithum-logo.jpg"
-              alt="Digithum Realtors logo"
+              src="/logo1.png"
+              alt="Digithum Consultancy Services logo"
             />
 
             <span className="brand-copy">
               <strong>DIGITHUM</strong>
-              <small>REALTORS</small>
+              <small>Consultancy Services</small>
             </span>
           </Link>
 
@@ -668,13 +668,13 @@ export default function Home() {
             <div className="footer-brand">
               <div className="brand">
                 <img
-                  src="/digithum-logo.jpg"
-                  alt="Digithum Realtors logo"
+                  src="/logo.jpeg"
+                  alt="Digithum Consultancy Services logo"
                 />
 
                 <span className="brand-copy">
                   <strong>DIGITHUM</strong>
-                  <small>REALTORS</small>
+                  <small>Consultancy Services</small>
                 </span>
               </div>
 
@@ -752,7 +752,7 @@ export default function Home() {
           </span>
 
           <span>
-            Digithum Realtors · Real Estate Consultancy
+            Digithum Consultancy Services · Real Estate Consultancy
           </span>
         </div>
       </footer>

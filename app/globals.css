@@ -42,7 +42,7 @@ p { margin: 0; }
 .site-header, .project-header { position: fixed; z-index: 50; top: 0; width: 100%; background: rgba(255,255,255,.94); border-bottom: 1px solid var(--line); backdrop-filter: blur(16px); }
 .nav-inner { min-height: 78px; display: flex; align-items: center; justify-content: space-between; gap: 28px; }
 .brand { display: inline-flex; align-items: center; gap: 10px; min-width: 175px; }
-.brand img { width: 43px; height: 43px; object-fit: cover; object-position: center; border-radius: 2px; }
+.brand img { width: 80px; height: auto; object-fit: contain; object-position: center; border-radius: 2px; }
 .brand-copy { display: flex; flex-direction: column; line-height: 1; }
 .brand-copy strong { font: 700 18px "Space Grotesk", sans-serif; letter-spacing: -.04em; }
 .brand-copy small { color: var(--orange); margin-top: 4px; font: 600 8px "Space Grotesk", sans-serif; letter-spacing: .25em; }
